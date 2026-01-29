@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f7fa;
+  color: #333;
+}
+
+.header {
+  background: linear-gradient(135deg, #c9a227, #8d6e00);
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+section {
+  padding: 30px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #8d6e00;
+}
+
+.footer {
+  background: #111;
+  color: #ccc;
+  text-align: center;
+  padding: 15px;
+}
